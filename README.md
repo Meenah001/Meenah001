@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meenah001
 - 👀 I’m interested in building my technical skills in data analysis
-- 🌱 I’m currently learning data analysis in the NG30 days learning
+- 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on everything data analysis and projects
 - 📫 How to reach me https://www.linkedin.com/in/owolabi-aminat-188a43191
 
